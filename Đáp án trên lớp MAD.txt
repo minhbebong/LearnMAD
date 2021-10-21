@@ -1,0 +1,11 @@
+Review for Test 1 đã xem đến phút 49
+Ex2 : Every student in the university has a laptop or has a friend in the univer sity who has a laptop.
+Ex3: There is one student in the university whose friends are not friends to each other.
+
+Ex1: Với mọi x Với mọi y(- E(x,x) or ((x khác y) -> E(x,y)))
+Với mọi x(- E(x,x) or Với mọi y((x khác y) -> E(x,y))
+Ex2: Với mọi x(C(x) v Tồn tại y (C(y) or R(x,y))
+Ex 3: Tồn tại x(P(x) ^ Vy(y#x) -> -P(y))
+b Tồn tại x P(x) ^ TồnTại y P(y) ^ Với mọi z
+
+
